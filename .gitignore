@@ -1,0 +1,4 @@
+.env
+areesha_memory.json
+__pycache__/
+*.pyc
